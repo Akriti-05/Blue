@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Fragments.InstructionFragment">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/let_us_join_our_hands_and_create_an_environment_full_of_hope_and_positivity"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/you_are_free_to_keep_any_username_but_make_sure_to_write_ab_abuse_cp_career_pressure_bu_bullying_l_lgbtqa_rs_relationship_ahead_of_your_username_to_easily_find_people_with_similar_concerns"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view6"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/everyone_can_help_someone_just_by_being_there_at_the_right_moment_listening_and_sharing_sometimes_can_be_the_best_weapon_against_mental_health_one_on_one_conversation_with_someone_going_through_the_same_problems_may_help_you_understand_and_deal_with_the_situation_in_a_better_way"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view7"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/we_care_about_your_safety_and_privacy_you_can_block_someone_bothering_you_by_clicking_on_the_green_tick"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view8"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/you_are_not_alone_we_will_overcome_this_together"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view9"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
+        android:padding="3dp"
+        android:text="@string/help_us_to_create_a_safe_and_useful_community_by_sticking_to_the_guidelines_above_and_maintaining_the_decorum_otherwise_your_account_may_be_suspended"
+        android:textColor="#875F01"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view10"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/setting_bg" />
+
+</LinearLayout>

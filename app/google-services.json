@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260382013692",
+    "project_id": "aashaapp-bd260",
+    "storage_bucket": "aashaapp-bd260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260382013692:android:74be9c460caa426543bf79",
+        "android_client_info": {
+          "package_name": "com.techster.aashaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260382013692-88eeuto4b8ggkpf9f7jso1ou7pmaauqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJibrWQW4q3XSVrSl-F1y7117CdourvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260382013692-88eeuto4b8ggkpf9f7jso1ou7pmaauqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
