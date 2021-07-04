@@ -46,6 +46,8 @@
                 android:layout_marginTop="15dp"
                 android:layout_marginBottom="10dp"
                 android:background="@color/white"
+                android:textColor="#B3B2B2"
+                android:textColorHint="#B3B2B2"
                 android:ems="10"
                 android:hint="Username"
                 android:inputType="textPersonName"
@@ -61,6 +63,8 @@
                 android:background="@color/white"
                 android:ems="10"
                 android:hint="Email"
+                android:textColor="#B3B2B2"
+                android:textColorHint="#B3B2B2"
                 android:inputType="textEmailAddress"
                 android:padding="9dp"
                 android:textStyle="bold" />
@@ -73,6 +77,8 @@
                 android:background="@color/white"
                 android:ems="10"
                 android:hint="Password"
+                android:textColor="#B3B2B2"
+                android:textColorHint="#B3B2B2"
                 android:inputType="textPassword"
                 android:padding="9dp"
                 android:textStyle="bold" />
