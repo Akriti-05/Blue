@@ -26,6 +26,7 @@
             android:paddingTop="10dp"
             android:paddingRight="10dp"
             android:paddingBottom="10dp"
+            android:textColor="@color/brown"
             android:textColorHint="@color/brown"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
