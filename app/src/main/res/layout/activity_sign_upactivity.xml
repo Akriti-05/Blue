@@ -85,43 +85,29 @@
 
         </LinearLayout>
 
-        <LinearLayout
-            android:id="@+id/linearH"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/linearV"
-            android:orientation="horizontal">
+
 
             <Button
                 android:id="@+id/btnSignup"
-                android:layout_width="150dp"
+                android:layout_width="match_parent"
+                android:layout_below="@id/linearV"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="51dp"
                 android:layout_marginLeft="51dp"
-                android:layout_marginEnd="5dp"
-                android:layout_marginRight="5dp"
+                android:layout_marginEnd="51dp"
+                android:layout_marginRight="51dp"
                 android:layout_weight="1"
                 android:drawableLeft="@drawable/signin"
                 android:padding="15dp"
                 android:text="sign up" />
 
-            <Button
-                android:id="@+id/btnGoogle"
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="51dp"
-                android:layout_marginRight="51dp"
-                android:layout_weight="1"
-                android:drawableLeft="@drawable/search"
-                android:padding="15dp"
-                android:text="google"
-                app:backgroundTint="#FF8A80" />
-        </LinearLayout>
+
+
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_below="@id/linearH"
+            android:layout_below="@id/btnSignup"
             android:orientation="vertical">
 
 

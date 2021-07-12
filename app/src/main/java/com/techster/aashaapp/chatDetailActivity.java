@@ -249,7 +249,7 @@ public class chatDetailActivity extends AppCompatActivity {
                 public Map<String, String> getHeaders() throws AuthFailureError {
                     Map<String, String> map = new HashMap<>();
                     map.put("content-type", "application/json");
-                    map.put("authorization", "key=AAAA-t-61Wo:APA91bH5pMssmEAiKBGJ3QH_FTUTxlyA5GM2HFhFcGMQEp_CbMG7Vd4fpq_SNBakG-mqi8vu92gvWBxtbV8XPV5nvQEcBJldu5yeio2zhdxLF8uU0w91sJC67-2b7FKA0PsvxIPV5q6W");
+                    map.put("authorization", "key=AAAAPJ_6OPw:APA91bG2qxEAH-SAb9V4I7TWTQrAy3MIs7sHZ9cldeBdOH_b0LWj8W0q6M2CVO2UmRhmFPZMV3MxSE8OKsj-ITGiH7ZswmSkbpGKoprhfJ5ET-uX9GB06XD57btsvOhD4DwFstiwEhv5");
 
                     return map;
                 }

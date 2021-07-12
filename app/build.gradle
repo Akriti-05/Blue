@@ -11,9 +11,9 @@ android {
     defaultConfig {
         applicationId "com.techster.aashaapp"
         minSdkVersion 19
-        targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        targetSdkVersion 30
+        versionCode 5
+        versionName "4.1"
         multiDexEnabled true
 
 

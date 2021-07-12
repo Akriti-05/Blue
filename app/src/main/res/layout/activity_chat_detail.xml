@@ -29,8 +29,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="3dp"
             android:layout_marginLeft="3dp"
-
-
             android:layout_weight="1"
             android:background="@drawable/btedittext"
             android:ems="10"
@@ -40,10 +38,11 @@
 
         <ImageView
             android:id="@+id/send"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            app:srcCompat="@drawable/sendarrow"
-            app:tint="@color/purple_200" />
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            app:srcCompat="@drawable/ic_send"
+            app:tint="@color/purple_200"
+            tools:ignore="VectorDrawableCompat" />
 
     </LinearLayout>
 

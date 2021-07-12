@@ -94,7 +94,7 @@ public class SlideViewPagerAdapter extends PagerAdapter {
                 ind3.setImageResource(R.drawable.unselected);
 
                 title.setText("Post here or Go Through Others' Posts  ");
-                desc.setText("You can post stuffs related to mental health, it could be some write-ups, poems , pictures anything, just make sure to give warning ahead of any sensitive content.");
+                desc.setText("You can post stuff related to mental health, it could be some write-ups, poems , pictures anything, just make sure to give warning ahead of any sensitive content.");
 
 
                 back.setVisibility(View.VISIBLE);

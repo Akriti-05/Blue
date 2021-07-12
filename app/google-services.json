@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "260382013692",
+    "firebase_url": "https://aashaapp-bd260-default-rtdb.firebaseio.com",
     "project_id": "aashaapp-bd260",
     "storage_bucket": "aashaapp-bd260.appspot.com"
   },
@@ -13,6 +14,22 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "260382013692-6tp2na6aklm3lu1u8efs54nbvlvmo41a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techster.aashaapp",
+            "certificate_hash": "6ef95d71361fe3c0d629bde9c4e5ecfd4f6dad92"
+          }
+        },
+        {
+          "client_id": "260382013692-c9qnltoiccf67p3h05kfffdt9hcecd4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techster.aashaapp",
+            "certificate_hash": "7ccfe5ad4df1388c6549ff68c7c00dedad8f8d9d"
+          }
+        },
         {
           "client_id": "260382013692-88eeuto4b8ggkpf9f7jso1ou7pmaauqa.apps.googleusercontent.com",
           "client_type": 3
